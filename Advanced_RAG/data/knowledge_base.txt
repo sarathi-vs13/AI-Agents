@@ -1,0 +1,103 @@
+Python is a high-level programming language.
+Python supports object oriented programming.
+Python is widely used in machine learning.
+Machine learning allows systems to learn from data.
+Deep learning is a subset of machine learning.
+Neural networks are inspired by the human brain.
+LangChain helps build LLM applications.
+LangGraph helps build AI agents.
+RAG stands for Retrieval Augmented Generation.
+RAG retrieves documents before answering.
+CRAG stands for Corrective Retrieval Augmented Generation.
+CRAG evaluates retrieved documents.
+CRAG may perform additional retrieval.
+ARAG stands for Adaptive Retrieval Augmented Generation.
+ARAG decides whether retrieval is necessary.
+Some questions require retrieval.
+Some questions can be answered directly.
+Self-RAG critiques its own answers.
+Self-RAG can improve generated responses.
+Transformers power modern language models.
+Attention mechanisms help transformers focus.
+Vector databases store embeddings.
+Embeddings convert text into vectors.
+Cosine similarity measures vector similarity.
+FAISS is a vector database library.
+ChromaDB is another vector database.
+OpenAI provides language models.
+Google provides Gemini models.
+Anthropic provides Claude models.
+Agents use tools to perform tasks.
+Tools can access external information.
+Human-in-the-loop introduces human approval.
+Checkpoints preserve graph state.
+Memory stores conversation history.
+Prompt engineering influences outputs.
+Few-shot prompting uses examples.
+Zero-shot prompting uses instructions.
+Fine-tuning customizes model behavior.
+Supervised learning uses labeled data.
+Unsupervised learning uses unlabeled data.
+Reinforcement learning uses rewards.
+Gradient descent optimizes models.
+Overfitting harms generalization.
+Cross validation helps evaluation.
+Precision measures positive accuracy.
+Recall measures detection ability.
+F1 score balances precision and recall.
+NLP stands for Natural Language Processing.
+Tokenization splits text into units.
+Named Entity Recognition identifies entities.
+Sentiment analysis detects emotions.
+Computer vision processes images.
+CNNs are common in vision tasks.
+RNNs process sequential data.
+LSTMs improve long term memory.
+Transformers outperform many older architectures.
+Prompt templates structure instructions.
+Temperature controls randomness.
+Low temperature gives deterministic responses.
+High temperature increases creativity.
+Retrievers search relevant documents.
+Chunking splits large documents.
+Metadata stores document information.
+Semantic search uses meaning.
+Keyword search uses exact terms.
+Hybrid search combines methods.
+Evaluation measures system quality.
+Hallucination occurs when models invent facts.
+Grounding reduces hallucinations.
+Reranking improves retrieval quality.
+Multi-agent systems use multiple agents.
+Supervisor agents coordinate workers.
+Planning agents create task plans.
+Reflection agents review outputs.
+Tool calling allows external actions.
+Function calling structures tool usage.
+MCP standardizes tool integration.
+APIs enable communication between systems.
+REST is a common API style.
+JSON is widely used for data exchange.
+SQL stores structured data.
+NoSQL stores flexible data.
+PostgreSQL is a relational database.
+MongoDB is a document database.
+Docker packages applications.
+Kubernetes orchestrates containers.
+FastAPI builds APIs in Python.
+Django is a web framework.
+Streamlit creates data apps.
+Pandas handles tabular data.
+NumPy supports numerical computing.
+Matplotlib creates visualizations.
+Scikit-learn supports machine learning.
+TensorFlow is a deep learning framework.
+PyTorch is a deep learning framework.
+Evaluation datasets benchmark models.
+Benchmarking compares performance.
+Agentic systems can make decisions.
+Autonomous agents perform tasks independently.
+Observability helps monitor systems.
+Tracing tracks execution flow.
+Production systems require monitoring.
+AI engineering combines software and AI.
